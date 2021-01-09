@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610082902 source:e:\new project\balanced-chemical-equation\src\equation.cpp
+	"Equation.h"
+	<bits/stdc++.h>
+
+1610081555 source:e:\new project\balanced-chemical-equation\main.cpp
+	<bits/stdc++.h>
+	"Equation.h"
+
+1610096216 e:\new project\balanced-chemical-equation\include\equation.h
+	<bits/stdc++.h>
+
